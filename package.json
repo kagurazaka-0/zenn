@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "zenn preview"
+    "start": "zenn preview",
+    "new:articles": "zenn new:articles"
   },
   "keywords": [],
   "author": "",
