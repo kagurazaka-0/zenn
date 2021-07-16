@@ -1,0 +1,15 @@
+{
+  "name": "zenn",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "zenn preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "zenn-cli": "^0.1.91"
+  }
+}
