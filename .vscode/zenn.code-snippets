@@ -1,0 +1,25 @@
+{
+  "zenn-detail": {
+    "prefix": "_detail",
+    "body": [
+      ":::details $1",
+      "",
+      "$0",
+      "",
+      ":::"
+    ],
+    "description": "zenn-detail",
+  },
+  "zenn-message": {
+    "prefix": "_message",
+    "body": [
+      ":::message",
+      "",
+      "$0",
+      "",
+      ":::",
+      ""
+    ],
+    "description": "zenn-message"
+  }
+}
