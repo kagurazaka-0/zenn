@@ -2,24 +2,43 @@
   "zenn-detail": {
     "prefix": "_detail",
     "body": [
+      "<!-- #region -->",
       ":::details $1",
       "",
       "$0",
       "",
-      ":::"
+      ":::",
+      "<!-- #endregion -->",
+      ""
     ],
     "description": "zenn-detail",
   },
   "zenn-message": {
     "prefix": "_message",
     "body": [
+      "<!-- #region -->",
       ":::message",
       "",
       "$0",
       "",
       ":::",
+      "<!-- #endregion -->",
       ""
     ],
     "description": "zenn-message"
-  }
+  },
+  "zenn-alert": {
+    "prefix": "_alert",
+    "body": [
+      "<!-- #region -->",
+      ":::message alert",
+      "",
+      "$0",
+      "",
+      ":::",
+      "<!-- #endregion -->",
+      ""
+    ],
+    "description": "zenn-message"
+  },
 }
