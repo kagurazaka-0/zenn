@@ -7,5 +7,8 @@
     "titleBar.inactiveBackground": "#008d0780",
     "statusBar.background": "#02ce0d80",
     "statusBarItem.hoverBackground": "#008d0780"
-  }
+  },
+  "cSpell.words": [
+    "styledcomponents"
+  ]
 }
