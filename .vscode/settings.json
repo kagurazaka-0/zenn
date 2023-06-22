@@ -10,5 +10,7 @@
   },
   "cSpell.words": [
     "styledcomponents"
-  ]
+  ],
+  // "prettier.enable": false,
+  // "editor.formatOnSave": false
 }
